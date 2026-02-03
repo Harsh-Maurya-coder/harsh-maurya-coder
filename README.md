@@ -69,7 +69,12 @@
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 <p align="center">
-<img src="https://github.com/Harsh-Maurya-coder/github-stats-terminal-style/blob/master/github_stats.svg">
+<img 
+  src="https://raw.githubusercontent.com/Harsh-Maurya-coder/github-stats-terminal-style/master/github_stats.svg"
+  width="700"
+/>
+
+
 
 # Social:
 <div align="left">
