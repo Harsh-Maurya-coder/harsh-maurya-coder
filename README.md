@@ -1,6 +1,8 @@
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jacquarda+Bastarda+9+&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hii++I+%F0%9F%91%8Bam+Harsh+Maurya...;Computer+Science+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93...;Nice+To+Meet+You%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F...&center=true"></a></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&letterSpacing=1&pause=1000&color=0DF723&background=B0FF3700&center=true&multiline=true&width=435&lines=HII++I++AM+++HARSH+MAURYA" alt="Typing SVG" /></a>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
 <!--📏LINE-->
 <p align="center">
