@@ -105,6 +105,9 @@
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=harsh-maurya-coder&repo=11-GitHub-Repositories-for-Machine-Learning-Projects&theme=merko&border_color=599200">
 
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <div align="center">
   <img src="https://raw.githubusercontent.com/harsh-maurya-coder/harsh-maurya-coder/output/github-snake-dark.svg" />
 </div>
