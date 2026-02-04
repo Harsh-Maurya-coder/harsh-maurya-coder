@@ -15,7 +15,7 @@
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://www.youtube.com/watch?v=T8AvyTTcTAk"><img src="https://github.com/Harsh-Maurya-coder/harsh-maurya-coder/blob/main/image/Untitled%20design.gif"></a>
+<a href="https://www.youtube.com/watch?v=T8AvyTTcTAk"><img src="https://github.com/Harsh-Maurya-coder/harsh-maurya-coder/blob/main/image/Untitled%20design%20(3).gif" height="130" width="300"></a>
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
