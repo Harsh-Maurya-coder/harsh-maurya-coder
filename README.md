@@ -90,7 +90,7 @@
   src="https://raw.githubusercontent.com/Harsh-Maurya-coder/github-stats-terminal-style/master/github_stats.svg"
   width="700"
 />
-
+  
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=harsh-maurya-coder&show_icons=true&theme=merko&border_color=599200">
@@ -105,6 +105,9 @@
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=harsh-maurya-coder&repo=11-GitHub-Repositories-for-Machine-Learning-Projects&theme=merko&border_color=599200">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/harsh-maurya-coder/harsh-maurya-coder/output/github-snake-dark.svg" />
+</div>
 
 
 <!--📏LINE-->
