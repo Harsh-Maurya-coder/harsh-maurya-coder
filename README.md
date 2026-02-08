@@ -105,6 +105,8 @@
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=harsh-maurya-coder&repo=11-GitHub-Repositories-for-Machine-Learning-Projects&theme=merko&border_color=599200">
 
+<img src="https://leetcard.jacoblin.cool/harsh-maurya-coder?theme=chartreuse&font=Kumar%20One%20Outline" />
+
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
